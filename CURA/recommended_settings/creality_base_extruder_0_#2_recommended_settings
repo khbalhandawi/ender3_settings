@@ -1,0 +1,19 @@
+[general]
+version = 4
+name = Recommended_settings
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = standard
+intent_category = default
+position = 0
+setting_version = 19
+
+[values]
+infill_sparse_density = 20.0
+material_print_temperature = 200.0
+retraction_amount = 6.0
+retraction_speed = 25.0
+speed_layer_0 = 30.0
+

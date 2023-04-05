@@ -1,0 +1,17 @@
+[general]
+version = 4
+name = Recommended_settings_slow
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = standard
+setting_version = 19
+
+[values]
+layer_height = 0.12
+material_bed_temperature = 60.0
+speed_slowdown_layers = 5
+support_enable = False
+support_type = buildplate
+
