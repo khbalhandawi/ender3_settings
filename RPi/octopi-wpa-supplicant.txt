@@ -26,7 +26,7 @@
 # WPA/WPA2 secured
 network={
   ssid="TACTICALGEAR24G"
-  psk="Clkhin_13"
+  psk="*********"
 }
 
 ## Open/unsecured
