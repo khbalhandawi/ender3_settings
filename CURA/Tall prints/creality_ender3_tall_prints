@@ -1,0 +1,14 @@
+[general]
+version = 4
+name = Tall prints
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = super
+setting_version = 19
+
+[values]
+adhesion_type = raft
+material_bed_temperature = 60
+
