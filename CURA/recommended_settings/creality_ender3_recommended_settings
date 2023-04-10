@@ -9,8 +9,11 @@ quality_type = standard
 setting_version = 19
 
 [values]
-layer_height = 0.12
-material_bed_temperature = 50.0
+adhesion_type = none
+layer_height = 0.24
+layer_height_0 = 0.16
+material_bed_temperature = 60.0
+speed_slowdown_layers = 5
 support_enable = True
 support_type = buildplate
 

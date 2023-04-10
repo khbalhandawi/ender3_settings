@@ -9,7 +9,9 @@ quality_type = standard
 setting_version = 19
 
 [values]
+adhesion_type = skirt
 layer_height = 0.12
+layer_height_0 = 0.16
 material_bed_temperature = 60.0
 speed_slowdown_layers = 5
 support_enable = False

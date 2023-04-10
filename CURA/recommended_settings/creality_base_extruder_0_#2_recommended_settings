@@ -12,8 +12,17 @@ setting_version = 19
 
 [values]
 infill_sparse_density = 20.0
+initial_layer_line_width_factor = 200.0
+material_initial_print_temperature = 210.0
 material_print_temperature = 200.0
+material_print_temperature_layer_0 = 205.0
 retraction_amount = 6.0
 retraction_speed = 25.0
 speed_layer_0 = 30.0
+speed_print = 50.0
+speed_print_layer_0 = 20.0
+speed_travel = 50.0
+speed_travel_layer_0 = 20.0
+support_angle = 80.0
+support_infill_rate = 5.0
 
