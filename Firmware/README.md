@@ -1,0 +1,1 @@
+rename the desired file to `FIRMWARE.bin` and upload to SD Card

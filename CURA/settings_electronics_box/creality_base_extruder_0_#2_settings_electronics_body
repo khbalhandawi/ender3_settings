@@ -15,11 +15,12 @@ brim_width = 4
 infill_sparse_density = 20.0
 initial_layer_line_width_factor = 200.0
 material_initial_print_temperature = =material_print_temperature
-material_print_temperature = 200.0
+material_print_temperature = 190.0
 material_print_temperature_layer_0 = 205.0
 retraction_amount = 6.0
+retraction_count_max = 10
 retraction_hop_enabled = True
-retraction_speed = 25.0
+retraction_speed = 50.0
 speed_layer_0 = 30.0
 speed_print = 45.0
 speed_print_layer_0 = 20.0
