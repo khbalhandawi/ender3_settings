@@ -1,0 +1,30 @@
+[general]
+version = 4
+name = settings_electronics_cover
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = standard
+intent_category = default
+position = 0
+setting_version = 21
+
+[values]
+brim_width = 4
+infill_sparse_density = 20.0
+initial_layer_line_width_factor = 200.0
+material_initial_print_temperature = =material_print_temperature
+material_print_temperature = 200.0
+material_print_temperature_layer_0 = 205.0
+retraction_amount = 6.0
+retraction_hop_enabled = True
+retraction_speed = 25.0
+speed_layer_0 = 30.0
+speed_print = 45.0
+speed_print_layer_0 = 20.0
+speed_travel = 30.0
+speed_travel_layer_0 = 20.0
+support_angle = 77
+support_infill_rate = 10.0
+

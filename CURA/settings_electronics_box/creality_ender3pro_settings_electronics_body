@@ -1,0 +1,19 @@
+[general]
+version = 4
+name = settings_electronics_body
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = standard
+setting_version = 21
+
+[values]
+adhesion_type = brim
+layer_height = 0.2
+layer_height_0 = 0.16
+material_bed_temperature = 60.0
+speed_slowdown_layers = 5
+support_enable = True
+support_type = everywhere
+
