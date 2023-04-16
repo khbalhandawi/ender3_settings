@@ -1,0 +1,3 @@
+[submodule "Firmware/ender3_firmware"]
+	path = Firmware/ender3_firmware
+	url = https://github.com/khbalhandawi/ender3_firmware.git
