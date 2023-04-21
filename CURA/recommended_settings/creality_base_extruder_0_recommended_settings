@@ -26,4 +26,5 @@ speed_travel = 50.0
 speed_travel_layer_0 = 20.0
 support_angle = 80.0
 support_infill_rate = 5.0
+support_use_towers = False
 
