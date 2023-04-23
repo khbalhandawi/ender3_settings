@@ -15,7 +15,7 @@ infill_sparse_density = 20.0
 initial_layer_line_width_factor = 200.0
 material_initial_print_temperature = =material_print_temperature
 material_print_temperature = 200.0
-material_print_temperature_layer_0 = =material_print_temperature
+material_print_temperature_layer_0 = 205
 retraction_amount = 8.0
 retraction_hop_enabled = True
 retraction_speed = 55.0
