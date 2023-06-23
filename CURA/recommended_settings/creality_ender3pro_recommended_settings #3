@@ -1,0 +1,21 @@
+[general]
+version = 4
+name = recommended_settings
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = standard
+setting_version = 21
+
+[values]
+adhesion_type = skirt
+bridge_settings_enabled = True
+layer_height = 0.2
+layer_height_0 = 0.16
+material_bed_temperature = 50.0
+retraction_combing = infill
+speed_slowdown_layers = 5
+support_enable = True
+support_type = everywhere
+

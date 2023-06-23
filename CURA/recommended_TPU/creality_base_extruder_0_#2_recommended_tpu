@@ -1,0 +1,27 @@
+[general]
+version = 4
+name = recommended_TPU
+definition = creality_base
+
+[metadata]
+type = quality_changes
+quality_type = adaptive
+intent_category = default
+position = 0
+setting_version = 21
+
+[values]
+cool_fan_speed = 10.0
+infill_pattern = concentric
+infill_sparse_density = 100
+material_flow = 120.0
+material_flow_layer_0 = 120.0
+material_print_temperature = 225.0
+material_print_temperature_layer_0 = 230.0
+retraction_amount = 1
+retraction_speed = 30.0
+speed_print = 30.0
+speed_travel = 50.0
+support_angle = 45.0
+support_z_distance = 0.4
+
