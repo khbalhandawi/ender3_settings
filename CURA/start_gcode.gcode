@@ -5,7 +5,7 @@ M140 S{material_bed_temperature_layer_0} ; Set Heat Bed temperature
 M190 S{material_bed_temperature_layer_0} ; Wait for Heat Bed temperature
 ;M104 S160; start warming extruder to 160
 G28 ; Home all axes
-G29 ; Auto bed-level (BL-Touch)
+;G29 ; Auto bed-level (BL-Touch)
 G92 E0 ; Reset Extruder
 M104 S{material_print_temperature_layer_0} ; Set Extruder temperature
 M109 S{material_print_temperature_layer_0} ; Wait for Extruder temperature
