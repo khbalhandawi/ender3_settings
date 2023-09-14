@@ -5,5 +5,5 @@ for i in *.curaprofile ; do
     filename="${i%.*}"
     # tar -xzf "$filename.curaprofile" "$filename"
     echo "$filename"
-    unzip -o "$filename.curaprofile" -d "$filename"
+    unzip -o "$filename.curaprofile" -d "./$filename/"
 done
