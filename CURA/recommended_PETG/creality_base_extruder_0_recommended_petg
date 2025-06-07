@@ -8,7 +8,7 @@ type = quality_changes
 quality_type = standard
 intent_category = default
 position = 0
-setting_version = 21
+setting_version = 25
 
 [values]
 bridge_fan_speed_2 = 100.0
@@ -26,7 +26,7 @@ material_flow_layer_0 = 110.0
 material_initial_print_temperature = =material_print_temperature
 material_print_temperature = 240.0
 material_print_temperature_layer_0 = 245.0
-retraction_amount = 4.0
+retraction_amount = 1.0
 retraction_hop_enabled = True
 retraction_speed = 30.0
 speed_layer_0 = 30.0
